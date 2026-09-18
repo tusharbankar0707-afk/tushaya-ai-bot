@@ -39,6 +39,7 @@ You can watch the full video tutorial [here](https://www.youtube.com/watch?v=9Qq
 
 ```bash
 git clone https://github.com/tusharbankar0707-afk/tushaya-ai-bot.git
+cd tushaya-ai-bot
 ```
 
 ### 2. Install Dependencies
